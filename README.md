@@ -6,18 +6,30 @@ Efficient and lightweight CNN for pneumonia detection in chest X-ray images. Tra
 
 ## 🔗 Project & Paper
 
-- **GitHub Repository:**  
-  [![external-link](external-link.png)](https://github.com/prachimishra1/Pneumonia-Detection-CNN)
+- **GitHub Repository:**
+  
+        (https://github.com/prachimishra1/Pneumonia-Detection-CNN)
 
 - **Research Paper:**  
   Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight Convolutional Neural Networks  
   Presented at IEEE SCES 2024.
+   
+         (https://ieeexplore.ieee.org/document/10652501)
 
 ---
 
-## 📚 Dataset
+## 📚 Dataset Details
 
-- [Chest X-Ray Images (Pneumonia) on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- **Source:** [Chest X-Ray Images (Pneumonia) on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- **Total images:** 5,856
+  - **Normal:** 1,583
+  - **Pneumonia:** 4,273
+- **Train split:** 5,216 images
+- **Test split:** 624 images
+- **Validation split:** 16 images
+
+Images are organized for both classes. The dataset is commonly used for deep learning research on pneumonia detection in medical imaging.
+
 
 ---
 
