@@ -8,13 +8,13 @@ Efficient and lightweight CNN for pneumonia detection in chest X-ray images. Tra
 
 - **GitHub Repository:**
   
-        (https://github.com/prachimishra1/Pneumonia-Detection-CNN)
+        https://github.com/prachimishra1/Pneumonia-Detection-CNN
 
 - **Research Paper:**  
   Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight Convolutional Neural Networks  
   Presented at IEEE SCES 2024.
    
-         (https://ieeexplore.ieee.org/document/10652501)
+         https://ieeexplore.ieee.org/document/10652501
 
 ---
 
