@@ -1,27 +1,72 @@
 # Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight CNNs
 
-This repository contains code and resources for the paper
-_"Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight Convolutional Neural Networks"_.
-
-## 📚 Dataset Used
-
-We use the **Chest X-Ray Images (Pneumonia) Pediatric Dataset**:
-- Source: Guangzhou Women and Children’s Medical Center
-- Classes: Pneumonia, Normal
-- Total Images: 5,863 (JPEG format)
-- Split: train, test, val  
-- **Access dataset here:**  
-  [![external-link](external-link.jpg)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-
-## Cite the Dataset:
-> Daniel Kermany, Kang Zhang, Michael Goldbaum. "Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification." Mendeley Data, v2, 2018.
+Efficient and lightweight CNN for pneumonia detection in chest X-ray images. Trained on the public Pediatric Chest X-ray dataset, this model offers fast, accurate binary classification to support reliable automated diagnosis.
 
 ---
 
-### **3. How to Organize Your GitHub Repo**
+## 🔗 Project & Paper
 
-- **Code:** Place all Python scripts, Jupyter notebooks (e.g., `main.py`, `EDA.ipynb`), model files, etc.
-- **README.md:** Contains summary, method, results, links to the dataset (as above).
-- **external-link.jpg**: Put this image in your repo for the icon.
+- **GitHub Repository:**  
+  [![external-link](external-link.png)](https://github.com/prachimishra1/Pneumonia-Detection-CNN)
 
-**Your README example code for dataset link with symbol:**
+- **Research Paper:**  
+  Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight Convolutional Neural Networks  
+  Presented at IEEE SCES 2024.
+
+---
+
+## 📚 Dataset
+
+- [Chest X-Ray Images (Pneumonia) on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+---
+
+## 💻 Code
+
+- The complete code is provided in the Jupyter Notebook:  
+  [`chest_xray_code.ipynb`](chest_xray_code.ipynb)
+
+  You can open and run this notebook for:
+    - Data loading and visualization
+    - Model definition and training
+    - Performance evaluation and result reporting
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository:**
+   
+       git clone https://github.com/prachimishra1/Pneumonia-Detection-CNN.git
+   
+2. **Download the dataset from Kaggle** and place it in the `data/` folder.
+
+       pip install -r requirements.txt
+
+3. **Install dependencies:**
+
+4. **Run the notebook:**  
+Open `chest_xray_code.ipynb` in Jupyter Notebook or Colab and follow the instructions.
+
+---
+
+## 📊 Results
+
+- Test Accuracy: 98.89%
+- Model: Custom lightweight CNN architecture
+
+---
+
+## 📄 Citation
+
+> Mishra, Prachi et al. Pneumonia Detection in Chest X-Ray Images Using Efficient and Lightweight Convolutional Neural Networks. IEEE SCES 2024.
+
+---
+
+## 📧 Contact
+
+For issues or questions, open an issue or contact  
+[Prachi Mishra](mailto:prachimishrasu8858@gmail.com)
+
+
+
